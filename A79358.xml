@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proclamation of the King of Scots at Paris in France: / read and published at the French Kings Palacc [sic], on the 12. of this instant November, 1651. Together with this letter to the English merchants; and his desires, promise, and propositions: sent and dispierced by the Lord Hopton. With other remarkable occurrences, concerning the Scots, and the Duke of York's taking the field with his forces. Pnblished [sic] by authority.</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79358</idno><idno type="EEBO-CITATION">99867762</idno>
+  <idno type="VID">120085</idno>
+  <idno type="EEBO-PROQUEST">2240949147</idno>
+  
+            <idno type="STC">Wing C3524</idno>
+            <idno type="STC">Thomason E647_5</idno>
+            <idno type="STC">ESTC R208841</idno>
+            <idno type="PROQUEST">99867762</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867762e"/>
+            <note>(EEBO-TCP ; phase 2, no. A79358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120085)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E647[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proclamation of the King of Scots at Paris in France: / read and published at the French Kings Palacc [sic], on the 12. of this instant November, 1651. Together with this letter to the English merchants; and his desires, promise, and propositions: sent and dispierced by the Lord Hopton. With other remarkable occurrences, concerning the Scots, and the Duke of York's taking the field with his forces. Pnblished [sic] by authority.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120085:1"/>
+            <p>THE PROCLAMATION OF THE KING Of SCOTS</p>
+            <p>At Paris in France: Read and published at the French Kings Palacc, on the 12. of this instant <hi>November,</hi> 1651.</p>
+            <p>Together with his Letter to the English Merchants; And his Desires, Promise, and propositions: Sent and dispiersed by the Lord <hi>HOPTON.</hi>
+            </p>
+            <p>With other remarkable Occurrences, con<g ref="char:EOLhyphen"/>cerning the Scots, and the Duke of York's taking the field with his Forces.</p>
+            <p>Published by Authority. <add>Novemb. 24</add>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. HORTON,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:120085:2"/>
+            <pb n="1" facs="tcp:120085:2"/>
+            <head>A Message from the King of Scots to the English Marchants; And his Desires, Promise, and Proposals: published and dispersed by the Lord Hopton; Toge<g ref="char:EOLhyphen"/>ther with his Proclamation thereupon; printed at Paris, the 12. day of this in<g ref="char:EOLhyphen"/>stant Novemb. 1651.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON the twelfth of this instant, there was se<g ref="char:EOLhyphen"/>veral papers dispersed throughout this City, containing matters of great con<g ref="char:EOLhyphen"/>cernment; and amongst the rest, a Pro<g ref="char:EOLhyphen"/>clamation of the King of Scots was affixed and set up at the Gates of the Royall Palace; Wherein he strictly required and commanded all English Mar<g ref="char:EOLhyphen"/>chants, Gentlemen, and others, of the said Nation, forthwith to repair unto the Loure, there to debate and consult upon such things as should tend to the
+<pb n="2" facs="tcp:120085:3"/>honour of his Majesty, and preservation of all the Lawes, Liberties, and good Customes of England; further demonstrating, That he doth love and ho<g ref="char:EOLhyphen"/>nour all those her just boundaries, that supports Magistracy, and teaches subjection her due bounds, and that most equally dispenseth justice unto all; declaring likewise, That he doth hate and abhor all subverting and levelling of the just Lawes, Li<g ref="char:EOLhyphen"/>berties, and Freedoms of the People, &amp;c.</p>
+            <p>Divers papers (to this effect) were posted up in several places of the City; but little notice was ta<g ref="char:EOLhyphen"/>ken of them by the English: Insomuch that the K. hath sent a Letter (by the Lord Hopton) to certain English Merchants resident at the Hague and Am<g ref="char:EOLhyphen"/>sterdam, Desiring a timely supply of monies for his present Necessities, which indeed are very great. This Letter hath bin presented unto divers of them, who answer'd his desires, contrary to the expectati<g ref="char:EOLhyphen"/>on of many.</p>
+            <p>Since which time, Madaimoselle (daughter to the Duke of Orleans) hath presented him with a great Present, and hath furnished him with some French Crowns. The Queen intends a Marriage very spee<g ref="char:EOLhyphen"/>dily. But the Duke (as yet) proffers no considerable sum of monies. The Duke of York hath taken the field for the King against the Prince of Conde; and
+<pb n="3" facs="tcp:120085:3"/>its said, that the <hi>King</hi> will immediately follow; but many conjecture, that his <hi>Madaimoselle</hi> will retard that design, The Kings Subjects begin to be very much discontented; and have agreed upon a Petition or Remonstrance, to present to the Parliament, wherein they represent the intolerable op<g ref="char:EOLhyphen"/>pressions and burdens, that they now lie under: as also, the heavy Yoake imposed upon them by the King. And in or<g ref="char:EOLhyphen"/>der thereunto, they have printed several papers, and dis<g ref="char:EOLhyphen"/>persed them throughout the City; desiring all Gentlemen and Citizens whatsoever: namely, the whole Company &amp; society of the Merchants, and all other Trades-men, to re<g ref="char:EOLhyphen"/>pair to the Parliament, and to assist them in so weighty a business, tending to the liberty and freedom of the people, the redusing of all impositions and Taxe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whatsoever, to their former condition, as they stood enacted and established in the Kaign of King <hi>Henry</hi> the 4th. and so unanimously re<g ref="char:EOLhyphen"/>solved to adhere together with one mind, and one heart, for the shaking off all Regal Tyranny, the recovering of their just Rights and Priviledges, and no longer to live like Vas<g ref="char:EOLhyphen"/>sels and slaves. This was accordingly put in execution the 14. of this instant <hi>November:</hi> for above 5000. Merchants, Ci<g ref="char:EOLhyphen"/>tizens and others, went to the Parliament, presented their Petition, and immediately received a satisfactory answer in relation thereunto; <hi>viz.</hi> That the Parliament had read their Petition, and that on the day following, their grievances should be taken into consideration, and a means used for the restoring of them to their former condition of liberty and freedom. The Prince of <hi>Conde</hi> we hear, is very potent, and divers Gentlemen and others come into him daily; for so far as he hath already conquered, all impositions are taken off, which is a great motive and encouragement to the people, to induce them to stand firm and adhere to him.</p>
+            <closer>
+               <dateline>Paris <date>19. November 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="news">
+            <pb n="4" facs="tcp:120085:4"/>
+            <p>From scotland we hear, that the Lord Belcarris, and Col. Monro, endeavours to infest the English Quarters, and to keep them in play this Winter; and talk high of another invasion at the Spring; but as yet they cannot agree at whose Girdle to hang the Keyes of the Kirks supremacy: In the mean time, I shall here present these prophe<g ref="char:EOLhyphen"/>tick lines, in case they should ever gather an Head to make an attempt for England.</p>
+            <q>
+               <lg>
+                  <l>CAm lend, lend your lugs <hi>Joes,</hi> and Ise speek a song,</l>
+                  <l>Sing heom agen <hi>Jocky,</hi>sing heom agen <hi>Jockey,</hi>
+                  </l>
+                  <l>O hes bonny deeds, an hes prowes emong,</l>
+                  <l>Sing heom agen, heom agen, O valent <hi>Jocky.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sirs <hi>Jocky's</hi> a Mon held o mickle Note,</l>
+                  <l>Sing heom agen <hi>Jocky,</hi> &amp;c.</l>
+                  <l>Tha breech o tha Covenant stuck in hes throte;</l>
+                  <l>Sing heom agen, heom agen, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>For <hi>Jockey</hi> wes riteous, wilk ye wad admire,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+                  <l>He fooght for the Kirk, bet a plunder'd tha Quire;</l>
+                  <l>Sing heom agen, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>An <hi>Jockey</hi> waxt roth an toll <hi>England</hi> a cam,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+                  <pb n="5" facs="tcp:120085:4"/>
+                  <l> Fro whance he'd return, bet a lack a is Lam,</l>
+                  <l>Sing heom agen, &amp;cs</l>
+               </lg>
+               <lg>
+                  <l>An Jockey wes armed fro top toll toe,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+                  <l>Wi a poowre o Men, an th' are geod Deuke I tro,</l>
+                  <l>Sing heom ager, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Sa valent I wis they wer, an sa pral,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+                  <l>Ne cock nor hen durst stond in their gat,</l>
+                  <l>Sing heom agen, &amp;c,</l>
+               </lg>
+               <lg>
+                  <l>In every street thay ded sa flutter,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+                  <l>Ne Child durst shaw hes bred an butter,</l>
+                  <l>Sing heom agen. &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Now when our Forces they herd on o're night,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+                  <l>Next morn they harnest themsels for a fight,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Thare Deuk was the mon that wad be seen stoot,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+                  <l>He feect us a while, stret twurn'd Arss aboot,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Our men that ater these valent Scot went,</l>
+                  <l>Sing heom agen, &amp;c.</l>
+                  <l>Had ne'r foud him oout but by a strong sent,</l>
+                  <l>Sing heom agen, heom agen, o valent <hi>Jocky.</hi>
+                  </l>
+               </lg>
+            </q>
+            <pb n="6" facs="tcp:120085:5"/>
+            <p> We hear further from <hi>France,</hi> That there hath been a great Engagement between the 2. Armies, and that after a sharp dispute, the Kings Army was routed; in which action the Duke of <hi>York</hi> deported himself with an undanted spirit, and charged 3. times in the head of the Army; but afterwards was forced to retreat.</p>
+            <p>Since which fight, the Prince of <hi>Conde</hi> hath again declared to the people, That he desires nothing more then to approve himself the true patron of publick liberty: Even so did <hi>Pompey the Great,</hi> that famous <hi>Roman</hi> General; he approved himself the grand patron of freedom and liberty, and that his and the peoples liberties both stood and fell together: yet though he fell, he retained the name of <hi>Pompey the Great,</hi> and still retains it to this day; to shew that it is not fortune, but a just and notable Cause, that makes men truly great, even after the greatest miseries and misfortunes.</p>
+            <p>This <hi>Pompey</hi> was the support of the State against the am<g ref="char:EOLhyphen"/>bition of the great ones, the hope of the people while he lived, and the sorrow when he died. This is the true porti<g ref="char:EOLhyphen"/>on of the worth and greatness of the Right Honourable, most truly noble, and victorious, his Excellency the Lord Gen. <hi>Cromwel,</hi> who is become <hi>Englands</hi> Honour, the Enemies terror, and <hi>Europes</hi> Wonder.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
